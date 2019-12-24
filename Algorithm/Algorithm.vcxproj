@@ -116,9 +116,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="charArr.c" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="main.c" />
     <ClCompile Include="point.c" />
-    <ClCompile Include="strstr.cpp" />
+    <ClCompile Include="strstr.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

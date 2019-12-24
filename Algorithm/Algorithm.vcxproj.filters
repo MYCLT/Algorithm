@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="charArr.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="strstr.cpp">
+    <ClCompile Include="point.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="point.c">
+    <ClCompile Include="strstr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
