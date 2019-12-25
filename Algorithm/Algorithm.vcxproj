@@ -115,14 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bubbleSort.c" />
-    <ClCompile Include="charArr.c" />
+    <ClCompile Include="sortUtils.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="point.c" />
-    <ClCompile Include="strstr.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bubbleSort.h" />
+    <ClInclude Include="sortUtils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

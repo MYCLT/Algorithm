@@ -15,24 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="charArr.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="point.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="strstr.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="main.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="bubbleSort.c">
+    <ClCompile Include="sortUtils.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bubbleSort.h">
+    <ClInclude Include="sortUtils.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
