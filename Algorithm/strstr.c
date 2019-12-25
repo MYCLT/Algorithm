@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-int main01(int argc, char* argv[]) {
+int main012(int argc, char* argv[]) {
 
 	char buf[] = "asdrfrgtg";
 	char *p = strchr(buf, 'p');

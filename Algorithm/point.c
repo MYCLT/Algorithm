@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-int main() {
+int main00() {
 	int a = 100;
 	const int *p = &a;
 
