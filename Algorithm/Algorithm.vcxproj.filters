@@ -21,9 +21,21 @@
     <ClCompile Include="sortUtils.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedStack.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test\test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sortUtils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test\test.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
